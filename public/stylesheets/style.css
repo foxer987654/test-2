@@ -12,3 +12,10 @@ body {
   color: cyan;
   text-shadow: 2px 2px 5px purple;
 }
+
+button {
+  font: 50px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: cyan;
+  color: purple;
+
+}
