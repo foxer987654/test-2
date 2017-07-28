@@ -3,19 +3,8 @@ body {
   font: 50px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
-a {
-  color: #00B7FF;
-}
+p {background-color: green;}
 
-body {
-  background:url("/images/elk.jpg");
-  color: cyan;
-  text-shadow: 2px 2px 5px purple;
-}
+ul {background-color: blue;}
 
-button {
-  font: 50px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background: cyan;
-  color: purple;
-
-}
+body {background-color: yellow;}
